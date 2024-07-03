@@ -6,9 +6,9 @@
 </h2>
 
 - 👋 Hi, I’m @abdeneve
-- 👀 I’m interested in Agile Software Engineering
-- 🌱 I’m currently learning Monorepo Pattern with Angular
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Highly Scalable Systems With .NET
+- 🌱 I’m currently learning Generative AI, LLMs
+- 💞️ I’m looking to collaborate on Mentoring and Training .NET
 - 📫 How to reach me ...
 
 <details>
