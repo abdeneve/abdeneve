@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdeneve&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=abdeneve" alt="Profile Views">
   Fullstack Developer
 </h2>
 
