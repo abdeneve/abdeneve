@@ -11,6 +11,8 @@
 - 💞️ I’m looking to collaborate on Mentoring and Training .NET
 - 📫 How to reach me ...
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdeneve&show_icons=true" alt="abdeneve" /> </p>
+
 <details>
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
