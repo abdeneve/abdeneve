@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=abdeneve" alt="Profile Views">
-  Fullstack Developer
+  Full Stack Engineer
 </h2>
 
 - 👋 Hi, I’m @abdeneve
