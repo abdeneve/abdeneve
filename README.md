@@ -51,8 +51,3 @@ I'm interested in collaborating on practical AI systems, scalable software archi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsalazaria/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdeneve.salazar@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeneve&show_icons=true&hide_border=true" alt="Alex Salazar's GitHub statistics" />
-</p>
