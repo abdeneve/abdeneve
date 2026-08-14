@@ -1,42 +1,58 @@
+# Hi, I'm Alex Salazar 👋
 
+### Full-Stack & AI Engineer building scalable systems and intelligent business automation
 
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdeneve" alt="Profile Views">
-  Full Stack Engineer
-</h2>
+I combine backend architecture, full-stack development, and agentic AI to transform complex business workflows into reliable, auditable software.
 
-- 👋 Hi, I’m @abdeneve
-- 👀 I’m interested in Highly Scalable Systems With .NET
-- 🌱 I’m currently learning Generative AI, LLMs
-- 💞️ I’m looking to collaborate on Mentoring and Training .NET
-- 📫 How to reach me ...
+- 🔭 Building AI agents for procurement, market research, and decision support
+- ⚙️ Working with **.NET, Python, FastAPI, LangGraph, Next.js, and React**
+- 🧠 Focused on scalable architecture, RAG, deterministic decision systems, and human-in-the-loop workflows
+- 🤝 Open to AI and .NET collaborations, mentoring, and technical training
+- 📫 [LinkedIn](https://www.linkedin.com/in/alexsalazaria/) · [Email](mailto:abdeneve.salazar@gmail.com)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdeneve&show_icons=true" alt="abdeneve" /> </p>
+## Featured Projects
 
-<details>
-  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
+### [Procurement Agent](https://github.com/abdeneve/procurement-agent)
 
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-    <a href="https://github.com/abdeneve">
-      <img align="center" src="https://github.com/abdeneve/abdeneve/blob/main/icons/Github.gif" width="70"/>
-    </a>
-    <a href="https://linkedin.com/in/abdeneve">
-      <img align="center" src="https://github.com/abdeneve/abdeneve/blob/main/icons/Linkedin.gif" width="70"/>
-    </a>
-  </div>
-</details>
+An auditable AI workflow for invoice processing, ERP reconciliation, regulatory analysis with RAG, and human approval. Built with FastAPI, LangGraph, React, and SQLite.
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/abdeneve/abdeneve/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:abdeneve.salazar@gmail.com">
-      <img align="center" src="https://github.com/abdeneve/abdeneve/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+### [Opportunity Radar](https://github.com/abdeneve/opportunity-radar)
 
-<!---
-abdeneve/abdeneve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An agentic decision-support system that evaluates consulting niches through AI-assisted research and deterministic financial scoring. Built with Python, FastAPI, LangGraph, Next.js, and React.
+
+### [Agentic Market Research](https://github.com/abdeneve/agentic-market-research)
+
+A multi-agent platform for market data collection, competitive intelligence, predictive analysis, and executive report generation. Built with FastAPI, LangGraph, LangChain, and Next.js.
+
+### [ECOS AI](https://github.com/abdeneve/ecos-ai)
+
+Architecture and local infrastructure for a conversational AI and B2B automation ecosystem, including event streaming, caching, persistence, routing, and human handoff flows.
+
+## What I Build
+
+- Scalable APIs and backend services
+- Agentic AI workflows with traceable decisions
+- RAG systems grounded in controlled knowledge bases
+- Business process automation with human oversight
+- Full-stack applications for operational teams
+
+## Technology Stack
+
+**Backend:** C#, .NET, ASP.NET Core, Python, FastAPI  
+**AI:** LangGraph, LangChain, RAG, LLM orchestration  
+**Frontend:** TypeScript, Next.js, React  
+**Architecture & Data:** Clean Architecture, REST APIs, SQLite, Redis, event-driven systems  
+**Tooling:** Docker, GitHub Actions, pytest, Ruff, mypy
+
+## Let's Connect
+
+I'm interested in collaborating on practical AI systems, scalable software architecture, and technical education.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsalazaria/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdeneve.salazar@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeneve&show_icons=true&hide_border=true" alt="Alex Salazar's GitHub statistics" />
+</p>
